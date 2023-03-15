@@ -1,0 +1,25 @@
+.sliderlayout{border: none;height: 150px !important;clear: both; width: 100%;};
+.sliderlayout > div{border: none !important;}
+.slick-slide{background:#fff;height: 100px !important;display: flex !important;flex-direction: column !important;justify-content: center !important;margin: 0px !important;padding: 0px !important;border: 1px solid #ccc;}
+.imgfig img{border-radius: 50% !important;margin:10px auto;height: 100px;width: auto;display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;padding: 5px;border: 1px solid #aaa;}
+.sliderbox {
+    margin: 0 auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    clear: both;
+    background: #fff;
+    border-right: 5px solid #fff !important;
+}
+.imgfig{margin: 0px;}
+.imgfig figure{margin: 0px;}
+.imgfig figcaption {    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 600;height: 40px;
+    font-size: 12px;text-align: center;width: 100%;background: #E4E6EB; color: #000;padding: 10px;}
+.sliderlayout > div > div > div {height: 150px !important;border:none;}
+.sliderlayout > div > div  {height: 150px !important;}
+.sliderlayout > div >  {height: 150px !important;}

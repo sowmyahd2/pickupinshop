@@ -1,0 +1,8 @@
+.profilelayout{padding: 0 10px;}
+.virtualorderlist{padding: 0px !important;border: 1px solid #ccc;}
+.virtualorderlist h6{background: #E4E5EB;padding: 10px;margin: 0px;}
+.virtualorderlist a {padding: 5px 10px;font-size: 13px; color: #000;}
+.virtualtablist{border: 1px solid #ccc;padding: 0 10px;}
+.ordertabbox{padding: 5px;}
+.profileorder {padding: 0 !important;display: inline-flex !important;}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{color: #fff !important;background: #3a4080  !important;}

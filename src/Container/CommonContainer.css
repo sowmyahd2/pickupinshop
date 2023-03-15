@@ -1,0 +1,83 @@
+/* ..............HOME.JS CSS STARTS HERE............... */
+
+
+@media (max-width: 767.98px) { 
+    
+}
+
+/* ..............HOME.JS CSS ENDS HERE............... */
+
+/* ..............DEPARTMENT.JS CSS STARTS HERE............... */
+
+.departmentlayout {padding: 0px !important      ;}
+.departmentbanner{padding: 0 10px ;}
+.depimage{border: 1px solid #ccc;  width:100%}
+@media (max-width: 767.98px) { 
+    .departmentbanner{padding: 0 5px !important;}
+}
+/* ..............DEPARTMENT.JS CSS ENDS FROM HERE............... */
+
+/* ..............MAINCATEGORY.JS  CSS STARTS HERE............... */
+.subcategoryfilter {padding: 0px !important;}
+.maincateproducts {background: #E4E5EB;}
+.subfilter {height: auto;max-height: 250px;overflow-y: scroll;border: 1px solid #ccc;}
+.subcategorybanner{padding: 0 10px ;}
+.subcategoryimage{border: 1px solid #ccc;}
+@media (max-width: 767.98px) { 
+    .subcategorybanner{padding: 0 5px !important;}
+}
+/* ..............MAINCATEGORY.JS  CSS ENDS HERE............... */
+
+/* ..............SUBCATEGORY.JS CSS STARTS HERE............... */
+.subcategoryproducts{padding: 0 10px;}
+.subcateproducts{background: #E4E5EB;}
+
+@media (max-width: 767.98px) { 
+    .subcategoryproducts{padding: 0 5px !important;}
+}
+
+/* ..............SUBCATEGORY.JS CSS ENDS HERE............... */
+
+/* ..............NEWARRIVALS.JS CSS STARTS FROM HERE............... */
+.arrivalsfilter {padding: 0px;background: #E4E5EB;}
+.arrivalsbrand{padding: 0px 10px;}
+.arrivalsfilter ul li{background: #E4E5EB;}
+.formarrival select{padding: 0 10px;margin: 0px;font-size: 12px;height: 35px;}
+.formarrival {padding: 10px;margin: 0px;}
+
+
+
+/* ..............NEWARRIVALS.JS CSS ENDS HERE............... */
+/* ..............NEWARRIVALS/PRODUCTS.JS CSS STARTS FROM HERE............... */
+.newarrivalslayout{}
+.newarrivalsproduct{background: #E4E5EB;}
+
+
+/* ..............NEWARRIVALS/PRODUCTS.JS CSS ENDS HERE............... */
+
+
+/* ..............BRANDOFFERDETAILS.JS CSS STARTS FROM HERE............... */
+
+.offerdetailsbanner{padding: 0px 10px;}
+.offerdetailproducts{background: #E4E5EB;padding: 0px 0px;}
+
+/* ..............BRANDOFFERDETAILS.JS CSS ENDS HERE............... */
+
+
+
+/* ..............BRANDCATEGORY.JS CSS STARTS FROM HERE............... */
+/* .brandcategory{background: #E4E5EB;} */
+.brandmaincategory{padding:0 10px;} 
+.brandmaincategorylayout{padding: 0 10px;}
+.brandcategorybanner {padding: 0 10px;}
+
+
+/* ..............BRANDCATEGORY.JS CSS ENDS HERE............... */
+
+
+/* ..............BRANDMAINCATEGORY.JS CSS STARTS FROM HERE............... */
+ .brandcategory{background: #E4E5EB;} 
+
+
+/* ..............BRANDMAINCATEGORY.JS CSS ENDS HERE............... */
+
